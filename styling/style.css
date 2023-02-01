@@ -1,14 +1,22 @@
-#header {
+header {
+    padding: 20px;
+    background-color: beige;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
 body {
+    margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgba(0, 164, 22, 0.339);
     text-align: center;
     list-style-position: inside;
 }
+.content {
+    margin-top: 25px;
+}
 .image {
+    width: 400px;
+    height: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
